@@ -89,11 +89,20 @@ export default function Portfolio() {
         "Jest",
       ],
     },
+      {
+      title: "Full Stack Developer",
+      company: "Descriptive Solution Private Limited",
+      location: "New Delhi",
+      period: "September 2024 – January 2025",
+      description:
+        "Continued from internship into a full-time role based on performance.",
+      tech: ["React.js", "Node.js", "Express.js", "MongoDB", "Tailwind CSS"],
+    },
     {
       title: "Full Stack Developer (Intern)",
       company: "Descriptive Solution Private Limited",
       location: "New Delhi",
-      period: "May 2024 – January 2025",
+      period: "February 2024 – August 2024",
       description:
         "Developed cyber threat intelligence application with modules for phishing, vishing, smishing, and deepfake awareness campaigns.",
       tech: ["React.js", "Node.js", "Express.js", "MongoDB", "Tailwind CSS"],
