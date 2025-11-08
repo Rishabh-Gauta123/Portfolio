@@ -208,7 +208,7 @@ export default function Portfolio() {
                   <Mail className="w-4 h-4" />
                   Get In Touch
                 </Button>
-                <Link href="/Rishabh-gautam.pdf" download="Your-Name-Resume.pdf">
+                <Link href="https://drive.google.com/file/d/1cms8bFhEj0toVwSRfjFXXZWbQH7aofDi/view?usp=sharing" download="Your-Name-Resume.pdf">
                   <Button size="lg" variant="outline" className="...">
                     <Download className="w-4 h-4" />
                     Download Resume
