@@ -89,15 +89,6 @@ export default function Portfolio() {
         "Jest",
       ],
     },
-      {
-      title: "Full Stack Developer",
-      company: "Descriptive Solution Private Limited",
-      location: "New Delhi",
-      period: "September 2024 – January 2025",
-      description:
-        "Continued from internship into a full-time role based on performance.",
-      tech: ["React.js", "Node.js", "Express.js", "MongoDB", "Tailwind CSS"],
-    },
     {
       title: "Full Stack Developer",
       company: "Descriptive Solution Private Limited",
